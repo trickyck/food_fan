@@ -12,6 +12,8 @@ plugins:
 
 skin: "assets/css/skins/light.css"
 
+logo: "assets/images/logo.png"
+
 author:
   name: trickyck
   avatar: "/assets/images/avatar.png"
