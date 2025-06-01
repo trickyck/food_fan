@@ -1,11 +1,9 @@
 ---
-title: "Mince and mushroom ragu"
+title: "Spicy mushroom and beef ragù"
 date: 2025-06-01
 layout: page
 tags: [pasta, mushroom,  mince]
 ---
-
-# Spicy Mushroom & Beef Ragù (Gut-Friendly & High-Fiber)
 
 A hearty, high-fiber ragù made with lean beef, mushrooms, and gut-supportive ingredients. Perfect for a balanced, comforting meal.
 
