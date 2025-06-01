@@ -22,6 +22,9 @@ author:
 collections:
   pages:
     output: true
+  recipes:
+    output: true
+    permalink: /recipes/:title/
 
 # Navigation links
 nav:
